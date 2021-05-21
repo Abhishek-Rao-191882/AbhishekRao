@@ -1,15 +1,13 @@
 ## Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-This is Abhishek Rao. I am pursuing my undergraduation in Computer Science and Engineering from Central University Of Haryana . 
-I love to know about technologies and pretty much excited to learn new things of modern technical world .My greatest strength is my positive attitude , even during the most hardest of times.
-I’m constantly Practicing New Technologies .
+This is Abhishek Rao. I am pursuing my undergraduation in Computer Science and Engineering from Central University Of Haryana. 
 
 - 🔭 I’m currently working on Open Source Projects
 - 💡 I’m currently learning Flutter & Dart
 - 🌐 I’m looking to collaborate on Projects which can solve massive level Real world Problems
-- 🔗 Portfolio Link :- https://sourabhsaraswat-191939.github.io/my_portfolio/
-- 📱 Linkedin :- https://www.linkedin.com/in/sourabh-saraswat-1681b61a5/
+<!-- - 🔗 Portfolio Link :- https://sourabhsaraswat-191939.github.io/my_portfolio/ -->
+- 📱 Linkedin :- https://www.linkedin.com/in/abhishek-rao-16b6218b/
 
 <!-- - 🤔 I’m looking for help with 
 - 💬 Ask me about ... -->
