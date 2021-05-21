@@ -1,18 +1,18 @@
 ### Hi there, I'm [Abhishek Rao!](https://abhishekrao.github.io) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <a href="https://www.linkedin.com/in/abhishek-rao-16b6218b/">
-  <img align="left" alt="Abhishek Rao | linkedIn" width="30px" src="https://github.com/Abhishek-Rao-191882/AbhishekRao/blob/main/Assets/twitter.png" />
+  <img align="left" alt="Abhishek Rao | linkedIn" width="30px" src="https://github.com/Abhishek-Rao-191882/AbhishekRao/blob/main/Assets/linkedIn.png" />
 </a>
 <a href="https://www.linkedin.com/in/abhishek-rao-16b6218b/">
-  <img align="left" alt="Abhishek Rao | Discord" width="20px" src="https://github.com/Abhishek-Rao-191882/AbhishekRao/blob/main/Assets/twitter.png" />
+  <img align="left" alt="Abhishek Rao | Discord" width="30px" src="https://github.com/Abhishek-Rao-191882/AbhishekRao/blob/main/Assets/discord.png" />
 </a>
-<a href="https://www.linkedin.com/in/abhishek-rao-16b6218b/">
-  <img align="left" alt="Abhishek Rao | Twitter" width="20px" src="https://github.com/Abhishek-Rao-191882/AbhishekRao/blob/main/Assets/twitter.png" />
+<a href="https://twitter.com/Abhishe64042022">
+  <img align="left" alt="Abhishek Rao | Twitter" width="30px" src="https://github.com/Abhishek-Rao-191882/AbhishekRao/blob/main/Assets/twitter.png" />
 </a>
-<a href="https://www.linkedin.com/in/abhishek-rao-16b6218b/">
-  <img align="left" alt="Abhishek Rao | Instagram" width="20px" src="https://github.com/Abhishek-Rao-191882/AbhishekRao/blob/main/Assets/twitter.png" />
+<a href="https://www.instagram.com/__me_abhishek_rao/">
+  <img align="left" alt="Abhishek Rao | Instagram" width="30px" src="https://github.com/Abhishek-Rao-191882/AbhishekRao/blob/main/Assets/instagram.png" />
 </a>
-<a href="https://www.linkedin.com/in/abhishek-rao-16b6218b/">
-  <img align="left" alt="Abhishek Rao | linkedIn" width="20px" src="https://github.com/Abhishek-Rao-191882/AbhishekRao/blob/main/Assets/twitter.png" />
+<a href="https://www.facebook.com/profile.php?id=100008022662032">
+  <img align="left" alt="Abhishek Rao | Facebook" width="30px" src="https://github.com/Abhishek-Rao-191882/AbhishekRao/blob/main/Assets/facebook.png" />
 </a>
 
 <br>
