@@ -1,7 +1,10 @@
-## Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm [Abhishek Rao!](https://abhishekrao.github.io) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<a href="https://www.linkedin.com/in/abhishek-rao-16b6218b/">
+  <img align="left" alt="Abhishek Rao | linkedIn" width="20px" src="https://github.com/Abhishek-Rao-191882/AbhishekRao/blob/main/Assets/twitter.png" />
+</a>
 
 
-This is Abhishek Rao. I am pursuing my undergraduation in Computer Science and Engineering from Central University Of Haryana. 
+This is Abhishek Rao, pursuing undergraduation in Computer Science and Engineering from Central University Of Haryana. 
 
 - 🔭 I’m currently working on Open Source Projects
 - 💡 I’m currently learning Flutter & Dart
