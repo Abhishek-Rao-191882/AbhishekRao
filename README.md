@@ -2,8 +2,21 @@
 <a href="https://www.linkedin.com/in/abhishek-rao-16b6218b/">
   <img align="left" alt="Abhishek Rao | linkedIn" width="20px" src="https://github.com/Abhishek-Rao-191882/AbhishekRao/blob/main/Assets/twitter.png" />
 </a>
+<a href="https://www.linkedin.com/in/abhishek-rao-16b6218b/">
+  <img align="left" alt="Abhishek Rao | Discord" width="20px" src="https://github.com/Abhishek-Rao-191882/AbhishekRao/blob/main/Assets/twitter.png" />
+</a>
+<a href="https://www.linkedin.com/in/abhishek-rao-16b6218b/">
+  <img align="left" alt="Abhishek Rao | Twitter" width="20px" src="https://github.com/Abhishek-Rao-191882/AbhishekRao/blob/main/Assets/twitter.png" />
+</a>
+<a href="https://www.linkedin.com/in/abhishek-rao-16b6218b/">
+  <img align="left" alt="Abhishek Rao | Instagram" width="20px" src="https://github.com/Abhishek-Rao-191882/AbhishekRao/blob/main/Assets/twitter.png" />
+</a>
+<a href="https://www.linkedin.com/in/abhishek-rao-16b6218b/">
+  <img align="left" alt="Abhishek Rao | linkedIn" width="20px" src="https://github.com/Abhishek-Rao-191882/AbhishekRao/blob/main/Assets/twitter.png" />
+</a>
 
-
+<br>
+<br>
 This is Abhishek Rao, pursuing undergraduation in Computer Science and Engineering from Central University Of Haryana. 
 
 - 🔭 I’m currently working on Open Source Projects
